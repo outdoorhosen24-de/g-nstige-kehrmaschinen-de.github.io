@@ -1,61 +1,5 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
-    },
-    {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
-    },
-    {
-        "key": "sonstige",
-        "name": "Sonstige",
-        "slug": "sonstige",
-        "productCategory": "Sonstige",
-        "localThumb": "/assets/images/hersteller/sonstige.webp"
-    },
-    {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
-    },
-    {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
-    },
-    {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
-    },
-    {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
-    },
-    {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
-    },
-    {
         "key": "cmi",
         "name": "CMI",
         "slug": "cmi",
@@ -63,24 +7,59 @@
         "localThumb": "/assets/images/hersteller/cmi.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "mtd",
+        "name": "MTD",
+        "slug": "mtd",
+        "productCategory": "MTD",
+        "localThumb": "/assets/images/hersteller/mtd.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "alpina-garden",
+        "name": "Alpina-Garden",
+        "slug": "alpina-garden",
+        "productCategory": "Alpina-Garden",
+        "localThumb": "/assets/images/hersteller/alpina-garden.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "texas",
+        "name": "Texas",
+        "slug": "texas",
+        "productCategory": "Texas",
+        "localThumb": "/assets/images/hersteller/texas.webp"
+    },
+    {
+        "key": "stiga",
+        "name": "Stiga",
+        "slug": "stiga",
+        "productCategory": "Stiga",
+        "localThumb": "/assets/images/hersteller/stiga.webp"
+    },
+    {
+        "key": "al-ko",
+        "name": "Al-Ko",
+        "slug": "al-ko",
+        "productCategory": "Al-Ko",
+        "localThumb": "/assets/images/hersteller/al-ko.webp"
+    },
+    {
+        "key": "einhell",
+        "name": "Einhell",
+        "slug": "einhell",
+        "productCategory": "Einhell",
+        "localThumb": "/assets/images/hersteller/einhell.webp"
+    },
+    {
+        "key": "scheppach",
+        "name": "Scheppach",
+        "slug": "scheppach",
+        "productCategory": "Scheppach",
+        "localThumb": "/assets/images/hersteller/scheppach.webp"
+    },
+    {
+        "key": "kärcher",
+        "name": "Kärcher",
+        "slug": "kaercher",
+        "productCategory": "Kärcher",
+        "localThumb": "/assets/images/hersteller/kaercher.webp"
     }
 ]
