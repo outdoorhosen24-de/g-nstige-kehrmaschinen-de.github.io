@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/scheppach", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/scheppach-kehrmaschine-trike-s-scheppach-4436473-1.jpg":"\u002Fassets\u002Fimages\u002Fscheppach-kehrmaschine-trike-s-scheppach-4436473-1.webp"}}],fetch:{},mutations:void 0});
