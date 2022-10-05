@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "g\u00fcnstige-kehrmaschinen.de",
+    "hostname": "https://www.g\u00fcnstige-kehrmaschinen.de/",
+    "email": "g\u00fcnstige-kehrmaschinen.desurrealnetworks.io",
+    "organization": "g\u00fcnstige-kehrmaschinen.de",
+    "logoText": "G\u00fcnstige-kehrmaschinen.de",
+    "title": "Schneefr\u00e4sen & Kehrmaschinen",
+    "subline": "Der Online Shop f\u00fcr Schneefr\u00e4sen & Kehrmaschinen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "2593903",
+        "2593911",
+        "3027232",
+        "8072514",
+        "5803093",
+        "1136175"
+    ],
+    "winnerProducts": [
+        "5899596",
+        "8606113",
+        "7883515"
+    ],
+    "featuredCategories": [
+        "Kehrmaschinen",
+        "Zubeh\u00f6r f\u00fcr Schneefr\u00e4sen",
+        "Kehrmaschinen",
+        "Akku-Schneefr\u00e4sen",
+        "Zubeh\u00f6r f\u00fcr Schneefr\u00e4sen",
+        "Zubeh\u00f6r f\u00fcr Schneefr\u00e4sen"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Schneefr\u00e4sen & Kehrmaschinen",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die Firma \"Schneefr\u00e4sen & Kehrmaschinen\" ist ein Fachgesch\u00e4ft f\u00fcr Schneefr\u00e4sen und Kehrmaschinen. Wir f\u00fchren eine gro\u00dfe Auswahl an Schneefr\u00e4sen und Kehrmaschinen f\u00fcr jeden Bedarf. Unsere erfahrenen Mitarbeiter beraten Sie gerne und finden die richtige L\u00f6sung f\u00fcr Ihren Bedarf.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Schneefr\u00e4sen & Kehrmaschinen - die besten Ger\u00e4te f\u00fcr den Winter",
+            "metaDescription": "Schneefr\u00e4sen & Kehrmaschinen f\u00fcr jeden Bedarf. Top Qualit\u00e4t & Service. Jetzt online bestellen!",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Schneefr\u00e4sen & Kehrmaschinen: Die ultimative Kombination f\u00fcr den Winter",
+                    "text": "Schneefr\u00e4sen und Kehrmaschinen sind unerl\u00e4sslich f\u00fcr die Reinigung von Stra\u00dfen und Wegen im Winter. Schneefr\u00e4sen sind mit einer Schneidwerkzeug ausgestattet und k\u00f6nnen so den Schnee schnell und effektiv entfernen. Kehrmaschinen sind mit einem Kehrbesen ausgestattet und eignen sich hervorragend zum Aufsammeln von Laub und Schmutz. Beide Ger\u00e4te sind sehr wichtig f\u00fcr die Aufrechterhaltung der Sauberkeit in der Stadt und sollten daher regelm\u00e4\u00dfig gewartet und gereinigt werden."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Schneefr\u00e4sen & Kehrmaschinen Shop",
+            "metaDescription": "Schneefr\u00e4sen & Kehrmaschinen Shop - Hier findest du alles rund um Schneefr\u00e4sen & Kehrmaschinen.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Schneefr\u00e4sen & Kehrmaschinen - manufacturer",
+            "metaDescription": "Schneefr\u00e4sen & Kehrmaschinen - Finden Sie den passenden Hersteller f\u00fcr Ihren Bedarf.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT: Schneefr\u00e4sen & Kehrmaschinen",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER und $KATEGORIE f\u00fcr Schneefr\u00e4sen & Kehrmaschinen. Jetzt online bestellen!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Schneefr\u00e4sen & Kehrmaschinen",
+        "defaultMetaDescription": "$KATEGORIE: Schneefr\u00e4sen & Kehrmaschinen f\u00fcr jeden Bedarf. Finden Sie die passende Maschine f\u00fcr Ihren Bedarf. Jetzt online auf Agrarzone.de!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER Schneefr\u00e4sen & Kehrmaschinen: Finden Sie die passende Schneefr\u00e4se oder Kehrmaschine f\u00fcr Ihren Bedarf. Jetzt online kaufen!",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Schneefr\u00e4sen & Kehrmaschinen",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Schneefr\u00e4sen & Kehrmaschinen Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Schneefr\u00e4sen & Kehrmaschinen Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
