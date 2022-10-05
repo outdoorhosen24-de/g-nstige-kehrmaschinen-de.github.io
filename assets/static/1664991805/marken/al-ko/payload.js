@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/al-ko", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/al-ko-akku-schneefraese-st-4048-energy-flex-solo-al-ko-8253643-1.jpg":"\u002Fassets\u002Fimages\u002Fal-ko-akku-schneefraese-st-4048-energy-flex-solo-al-ko-8253643-1.webp"}}],fetch:{},mutations:void 0});
