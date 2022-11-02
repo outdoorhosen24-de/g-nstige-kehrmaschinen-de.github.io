@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
-    "domain": "g\u00fcnstige-kehrmaschinen.de",
-    "hostname": "https://www.g\u00fcnstige-kehrmaschinen.de/",
-    "email": "g\u00fcnstige-kehrmaschinen.desurrealnetworks.io",
-    "organization": "g\u00fcnstige-kehrmaschinen.de",
-    "logoText": "G\u00fcnstige-kehrmaschinen.de",
-    "title": "Schneefr\u00e4sen & Kehrmaschinen",
-    "subline": "Der Online Shop f\u00fcr Schneefr\u00e4sen & Kehrmaschinen",
+    "configIsReady": false,
+    "domain": "günstige-kehrmaschinen.de",
+    "hostname": "https://www.günstige-kehrmaschinen.de/",
+    "email": "günstige-kehrmaschinen.desurrealnetworks.io",
+    "organization": "günstige-kehrmaschinen.de",
+    "logoText": "Günstige-kehrmaschinen.de",
+    "title": "Schneefräsen & Kehrmaschinen",
+    "subline": "Der Online Shop für Schneefräsen & Kehrmaschinen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -29,11 +29,11 @@
     ],
     "featuredCategories": [
         "Kehrmaschinen",
-        "Zubeh\u00f6r f\u00fcr Schneefr\u00e4sen",
+        "Zubehör für Schneefräsen",
         "Kehrmaschinen",
-        "Akku-Schneefr\u00e4sen",
-        "Zubeh\u00f6r f\u00fcr Schneefr\u00e4sen",
-        "Zubeh\u00f6r f\u00fcr Schneefr\u00e4sen"
+        "Akku-Schneefräsen",
+        "Zubehör für Schneefräsen",
+        "Zubehör für Schneefräsen"
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
@@ -45,49 +45,49 @@
     ],
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "Schneefr\u00e4sen & Kehrmaschinen",
-        "featureText": "Die Firma \"Schneefr\u00e4sen & Kehrmaschinen\" ist ein Fachgesch\u00e4ft f\u00fcr Schneefr\u00e4sen und Kehrmaschinen. Wir f\u00fchren eine gro\u00dfe Auswahl an Schneefr\u00e4sen und Kehrmaschinen f\u00fcr jeden Bedarf. Unsere erfahrenen Mitarbeiter beraten Sie gerne und finden die richtige L\u00f6sung f\u00fcr Ihren Bedarf.",
+        "mainKeyword": "Schneefräsen & Kehrmaschinen",
+        "featureText": "Die Firma \"Schneefräsen & Kehrmaschinen\" ist ein Fachgeschäft für Schneefräsen und Kehrmaschinen. Wir führen eine große Auswahl an Schneefräsen und Kehrmaschinen für jeden Bedarf. Unsere erfahrenen Mitarbeiter beraten Sie gerne und finden die richtige Lösung für Ihren Bedarf.",
         "index": {
-            "title": "Schneefr\u00e4sen & Kehrmaschinen - die besten Ger\u00e4te f\u00fcr den Winter",
-            "metaDescription": "Schneefr\u00e4sen & Kehrmaschinen f\u00fcr jeden Bedarf. Top Qualit\u00e4t & Service. Jetzt online bestellen!",
+            "title": "Schneefräsen & Kehrmaschinen - die besten Geräte für den Winter",
+            "metaDescription": "Schneefräsen & Kehrmaschinen für jeden Bedarf. Top Qualität & Service. Jetzt online bestellen!",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Schneefr\u00e4sen & Kehrmaschinen: Die ultimative Kombination f\u00fcr den Winter",
-                    "text": "Schneefr\u00e4sen und Kehrmaschinen sind unerl\u00e4sslich f\u00fcr die Reinigung von Stra\u00dfen und Wegen im Winter. Schneefr\u00e4sen sind mit einer Schneidwerkzeug ausgestattet und k\u00f6nnen so den Schnee schnell und effektiv entfernen. Kehrmaschinen sind mit einem Kehrbesen ausgestattet und eignen sich hervorragend zum Aufsammeln von Laub und Schmutz. Beide Ger\u00e4te sind sehr wichtig f\u00fcr die Aufrechterhaltung der Sauberkeit in der Stadt und sollten daher regelm\u00e4\u00dfig gewartet und gereinigt werden."
+                    "title": "Schneefräsen & Kehrmaschinen: Die ultimative Kombination für den Winter",
+                    "text": "Schneefräsen und Kehrmaschinen sind unerlässlich für die Reinigung von Straßen und Wegen im Winter. Schneefräsen sind mit einer Schneidwerkzeug ausgestattet und können so den Schnee schnell und effektiv entfernen. Kehrmaschinen sind mit einem Kehrbesen ausgestattet und eignen sich hervorragend zum Aufsammeln von Laub und Schmutz. Beide Geräte sind sehr wichtig für die Aufrechterhaltung der Sauberkeit in der Stadt und sollten daher regelmäßig gewartet und gereinigt werden."
                 }
             ]
         },
         "shop": {
-            "title": "Schneefr\u00e4sen & Kehrmaschinen Shop",
-            "metaDescription": "Schneefr\u00e4sen & Kehrmaschinen Shop - Hier findest du alles rund um Schneefr\u00e4sen & Kehrmaschinen.",
+            "title": "Schneefräsen & Kehrmaschinen Shop",
+            "metaDescription": "Schneefräsen & Kehrmaschinen Shop - Hier findest du alles rund um Schneefräsen & Kehrmaschinen.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Schneefr\u00e4sen & Kehrmaschinen - manufacturer",
-            "metaDescription": "Schneefr\u00e4sen & Kehrmaschinen - Finden Sie den passenden Hersteller f\u00fcr Ihren Bedarf.",
+            "title": "Schneefräsen & Kehrmaschinen - manufacturer",
+            "metaDescription": "Schneefräsen & Kehrmaschinen - Finden Sie den passenden Hersteller für Ihren Bedarf.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Schneefr\u00e4sen & Kehrmaschinen",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER und $KATEGORIE f\u00fcr Schneefr\u00e4sen & Kehrmaschinen. Jetzt online bestellen!",
+        "defaultTitle": "$PRODUKT: Schneefräsen & Kehrmaschinen",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER und $KATEGORIE für Schneefräsen & Kehrmaschinen. Jetzt online bestellen!",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Schneefr\u00e4sen & Kehrmaschinen",
-        "defaultMetaDescription": "$KATEGORIE: Schneefr\u00e4sen & Kehrmaschinen f\u00fcr jeden Bedarf. Finden Sie die passende Maschine f\u00fcr Ihren Bedarf. Jetzt online auf Agrarzone.de!",
+        "defaultTitle": "$KATEGORIE: Schneefräsen & Kehrmaschinen",
+        "defaultMetaDescription": "$KATEGORIE: Schneefräsen & Kehrmaschinen für jeden Bedarf. Finden Sie die passende Maschine für Ihren Bedarf. Jetzt online auf Agrarzone.de!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER Schneefr\u00e4sen & Kehrmaschinen: Finden Sie die passende Schneefr\u00e4se oder Kehrmaschine f\u00fcr Ihren Bedarf. Jetzt online kaufen!",
+        "defaultMetaDescription": "$HERSTELLER Schneefräsen & Kehrmaschinen: Finden Sie die passende Schneefräse oder Kehrmaschine für Ihren Bedarf. Jetzt online kaufen!",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
@@ -132,19 +132,19 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Schneefr\u00e4sen & Kehrmaschinen",
+            "linkTitle": "Schneefräsen & Kehrmaschinen",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Schneefr\u00e4sen & Kehrmaschinen Shop",
+            "linkTitle": "Schneefräsen & Kehrmaschinen Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Schneefr\u00e4sen & Kehrmaschinen Marken",
+            "linkTitle": "Schneefräsen & Kehrmaschinen Marken",
             "publish": true
         },
         {
