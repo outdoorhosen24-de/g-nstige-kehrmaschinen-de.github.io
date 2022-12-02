@@ -51,12 +51,15 @@
             "title": "Schneefräsen & Kehrmaschinen - die besten Geräte für den Winter",
             "metaDescription": "Schneefräsen & Kehrmaschinen für jeden Bedarf. Top Qualität & Service. Jetzt online bestellen!",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Schneefräsen & Kehrmaschinen: Die ultimative Kombination für den Winter",
-                    "text": "Schneefräsen und Kehrmaschinen sind unerlässlich für die Reinigung von Straßen und Wegen im Winter. Schneefräsen sind mit einer Schneidwerkzeug ausgestattet und können so den Schnee schnell und effektiv entfernen. Kehrmaschinen sind mit einem Kehrbesen ausgestattet und eignen sich hervorragend zum Aufsammeln von Laub und Schmutz. Beide Geräte sind sehr wichtig für die Aufrechterhaltung der Sauberkeit in der Stadt und sollten daher regelmäßig gewartet und gereinigt werden."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Schneefräsen & Kehrmaschinen: Die ultimative Kombination für den Winter",
+                        "text": "Schneefräsen und Kehrmaschinen sind unerlässlich für die Reinigung von Straßen und Wegen im Winter. Schneefräsen sind mit einer Schneidwerkzeug ausgestattet und können so den Schnee schnell und effektiv entfernen. Kehrmaschinen sind mit einem Kehrbesen ausgestattet und eignen sich hervorragend zum Aufsammeln von Laub und Schmutz. Beide Geräte sind sehr wichtig für die Aufrechterhaltung der Sauberkeit in der Stadt und sollten daher regelmäßig gewartet und gereinigt werden."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Schneefräsen & Kehrmaschinen Shop",
