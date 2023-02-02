@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "günstige-kehrmaschinen.de",
     "hostname": "https://www.günstige-kehrmaschinen.de/",
     "email": "günstige-kehrmaschinen.de@surrealnetworks.io",
     "organization": "günstige-kehrmaschinen.de",
     "logoText": "Günstige-kehrmaschinen.de",
     "title": "Schneefräsen & Kehrmaschinen",
-    "subline": "Der Online Shop für Schneefräsen & Kehrmaschinen",
+    "subline": "Der Webshop für Schneefräsen & Kehrmaschinen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Schneefräsen & Kehrmaschinen",
-        "featureText": "Die Firma \"Schneefräsen & Kehrmaschinen\" ist ein Fachgeschäft für Schneefräsen und Kehrmaschinen. Wir führen eine große Auswahl an Schneefräsen und Kehrmaschinen für jeden Bedarf. Unsere erfahrenen Mitarbeiter beraten Sie gerne und finden die richtige Lösung für Ihren Bedarf.",
+        "featureText": "Herzlich willkommen in unserem Online-Shop für Schneefräsen und Kehrmaschinen - www.günstige-kehrmaschinen.de! Jeder kennt es, und jeder fürchtet es: Egal ob Schnee schippen  oder fegen, manche Aufgaben sind viel schöner, mit der Nutzung von fortschrittlicher Technik. Genau diese Erleichterungen bieten wir dir in unserem Shop an. Zu unseren Angeboten zählen Kehrmaschinen, Benzin-Schneefräsen, Akku-Schneefräsen oder Zubehör für Schneefräsen von bewährten Herstellern.",
         "index": {
-            "title": "Schneefräsen & Kehrmaschinen - die besten Geräte für den Winter",
-            "metaDescription": "Schneefräsen & Kehrmaschinen für jeden Bedarf. Top Qualität & Service. Jetzt online bestellen!",
+            "title": "Schneefräsen & Kehrmaschinen | Günstig. Schnell. Einfach. ",
+            "metaDescription": "So machen auch die lästigen Aufgaben Spaß. Mit unseren Kehrmaschinen, Benzin-Schneefräsen, Akku-Schneefräsen und Zubehör für Schneefräsen. ",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Schneefräsen & Kehrmaschinen Shop",
-            "metaDescription": "Schneefräsen & Kehrmaschinen Shop - Hier findest du alles rund um Schneefräsen & Kehrmaschinen.",
+            "title": "Schneefräsen & Kehrmaschinen | Online Shop",
+            "metaDescription": "Kaufe jetzt in unserem Online Shop günstige Kehrmaschinen, Benzin-Schneefräsen, Akku-Schneefräsen und Zubehör von Marken wie Alpina-Garden, Kärcher und Einhell.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Schneefräsen & Kehrmaschinen - manufacturer",
-            "metaDescription": "Schneefräsen & Kehrmaschinen - Finden Sie den passenden Hersteller für Ihren Bedarf.",
+            "title": "Alle Hersteller für Schneefräsen & Kehrmaschinen ",
+            "metaDescription": "Egal ob Schneefräse oder Kehrmaschine: In unserem Shop finden Sie Produkte von CMI, MTD, Alpina-Garden, Texas, Stiga, Al-Ko, Einhell, Scheppach oder Kärcher. ",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Schneefräsen & Kehrmaschinen",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER und $KATEGORIE für Schneefräsen & Kehrmaschinen. Jetzt online bestellen!",
+        "defaultTitle": "$PRODUKT günstig kaufen",
+        "defaultMetaDescription": "In unserem Online Shop:  $PRODUKT von $HERSTELLER. Kaufen Sie jetzt günstig und einfach aus unserem großen Angebot im Bereich $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Schneefräsen & Kehrmaschinen",
-        "defaultMetaDescription": "$KATEGORIE: Schneefräsen & Kehrmaschinen für jeden Bedarf. Finden Sie die passende Maschine für Ihren Bedarf. Jetzt online auf Agrarzone.de!",
+        "defaultTitle": "$KATEGORIE | günstige-kehrmaschinen.de",
+        "defaultMetaDescription": "Mit unserem Sortiment an $KATEGORIE bieten wir dir hochwertige Produkte von Herstellern wie z.B. Kärcher, Alpina-Garden oder Einhell zu einem günstigen Preis.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER Schneefräsen & Kehrmaschinen: Finden Sie die passende Schneefräse oder Kehrmaschine für Ihren Bedarf. Jetzt online kaufen!",
+        "defaultTitle": "$HERSTELLER | Schneefräsen & Kehrmaschinen",
+        "defaultMetaDescription": "Jetzt hochwertige Produkte von unserem Top Hersteller $HERSTELLER zu günstigen Preisen kaufen. Dein Online Shop für Schneefräsen & Kehrmaschinen.",
         "defaultRobots": "index, follow",
         "brands": [
             {
