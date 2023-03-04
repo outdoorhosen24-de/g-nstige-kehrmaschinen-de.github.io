@@ -9,21 +9,21 @@
     {
         "key": "zubehör für schneefräsen",
         "name": "Zubehör für Schneefräsen",
-        "slug": "zubehor-fur-schneefrasen",
+        "slug": "zubehoer-fuer-schneefraesen",
         "productCategory": "Zubehör für Schneefräsen",
         "subCategories": []
     },
     {
         "key": "benzin-schneefräsen",
         "name": "Benzin-Schneefräsen",
-        "slug": "benzin-schneefrasen",
+        "slug": "benzin-schneefraesen",
         "productCategory": "Benzin-Schneefräsen",
         "subCategories": []
     },
     {
         "key": "akku-schneefräsen",
         "name": "Akku-Schneefräsen",
-        "slug": "akku-schneefrasen",
+        "slug": "akku-schneefraesen",
         "productCategory": "Akku-Schneefräsen",
         "subCategories": []
     }
