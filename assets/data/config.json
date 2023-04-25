@@ -1,180 +1,183 @@
 {
-    "configIsReady": true,
-    "domain": "günstige-kehrmaschinen.de",
-    "hostname": "https://www.günstige-kehrmaschinen.de/",
-    "email": "günstige-kehrmaschinen.de@surrealnetworks.io",
-    "organization": "günstige-kehrmaschinen.de",
-    "logoText": "Günstige-kehrmaschinen.de",
-    "title": "Schneefräsen & Kehrmaschinen",
-    "subline": "Der Webshop für Schneefräsen & Kehrmaschinen",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "2593903",
-        "2593911",
-        "3027232",
-        "8072514",
-        "5803093",
-        "1136175"
-    ],
-    "winnerProducts": [
-        "5899596",
-        "8606113",
-        "7883515"
-    ],
-    "featuredCategories": [
-        "Kehrmaschinen",
-        "Zubehör für Schneefräsen",
-        "Kehrmaschinen",
-        "Akku-Schneefräsen",
-        "Zubehör für Schneefräsen",
-        "Zubehör für Schneefräsen"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Schneefräsen & Kehrmaschinen",
-        "featureText": "Herzlich willkommen in unserem Online-Shop für Schneefräsen und Kehrmaschinen - www.günstige-kehrmaschinen.de! Jeder kennt es, und jeder fürchtet es: Egal ob Schnee schippen  oder fegen, manche Aufgaben sind viel schöner, mit der Nutzung von fortschrittlicher Technik. Genau diese Erleichterungen bieten wir dir in unserem Shop an. Zu unseren Angeboten zählen Kehrmaschinen, Benzin-Schneefräsen, Akku-Schneefräsen oder Zubehör für Schneefräsen von bewährten Herstellern.",
-        "index": {
-            "title": "Schneefräsen & Kehrmaschinen | Günstig. Schnell. Einfach. ",
-            "metaDescription": "So machen auch die lästigen Aufgaben Spaß. Mit unseren Kehrmaschinen, Benzin-Schneefräsen, Akku-Schneefräsen und Zubehör für Schneefräsen. ",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei günstige-kehrmaschinen.de",
-                        "text": "Herzlich willkommen auf unserer Website für Schneefräsen und Kehrmaschinen. Wir bieten Ihnen eine breite Palette an hochwertigen und günstigen Produkten, die Ihnen dabei helfen, Ihren Gehweg, Ihre Einfahrt und Ihren Garten von Schnee und Laub zu befreien. Von Kehrmaschinen über Zubehör für Schneefräsen bis hin zu Benzin- und Akku-Schneefräsen haben wir alles, was Sie benötigen, um Ihre Aufgaben bequem und effizient zu erledigen. Stöbern Sie durch unsere Kategorien und entdecken Sie das passende Gerät für Ihre Bedürfnisse. Bestellen Sie noch heute und profitieren Sie von unseren günstigen Preisen und schnellen Lieferzeiten."
-                    },
-                    {
-                        "title": "Kehrmaschinen",
-                        "text": "Unsere <a href=\"/kategorie/kehrmaschinen/\" title=\"Kehrmaschinen\">Kehrmaschinen</a> sind ideal für den Einsatz in Gärten, auf Gehwegen und Straßen. Mit ihnen können Sie mühelos Schmutz, Laub und Schnee beseitigen. Wir bieten eine breite Palette an Kehrmaschinen, einschließlich elektrischer und benzinbetriebener Modelle, die alle robust und langlebig sind. Unsere Kehrmaschinen sind einfach zu bedienen und ermöglichen es Ihnen, Ihre Arbeit schnell und effizient zu erledigen. Stöbern Sie in unserem Sortiment, um die perfekte Kehrmaschine für Ihre Bedürfnisse zu finden."
-                    },
-                    {
-                        "title": "Zubehör für Schneefräsen",
-                        "text": "Wir bieten eine Vielzahl an Zubehörteilen für Ihre Schneefräse, darunter Schaufeln, Klingen und Messer, um sicherzustellen, dass Ihre Schneefräse immer optimal funktioniert. Unser Zubehör ist langlebig und einfach zu installieren, und es kann Ihnen helfen, die Leistung Ihrer Schneefräse zu verbessern und ihre Lebensdauer zu verlängern. Stöbern Sie in unserem Sortiment, um das perfekte Zubehör für Ihre Schneefräse zu finden."
-                    },
-                    {
-                        "title": "Benzin-Schneefräsen",
-                        "text": "Unsere <a href=\"/kategorie/benzin-schneefraesen/\" title=\"Benzin-Schneefräsen\">Benzin-Schneefräsen</a> sind ideal für den Einsatz in größeren Gärten und auf Gehwegen und Straßen. Sie bieten eine hohe Leistung und Flexibilität, da sie nicht an eine Stromquelle gebunden sind. Unsere benzinbetriebenen Schneefräsen sind robust und langlebig, und sie bieten eine einfache und effiziente Möglichkeit, Schnee und andere Hindernisse zu beseitigen. Stöbern Sie in unserem Sortiment, um die perfekte Benzin-Schneefräse für Ihre Bedürfnisse zu finden."
-                    },
-                    {
-                        "title": "Akku-Schneefräsen – Effizient und umweltfreundlich",
-                        "text": "Der Online-Shop günstige-kehrmaschinen.de bietet eine breite Auswahl an Akku-Schneefräsen. Diese Geräte sind besonders effizient und umweltfreundlich. Sie sind leicht und handlich und eignen sich ideal für kleinere Flächen. Auch für den Einsatz in schwer zugänglichen Bereichen eignen sich Akku-Schneefräsen besonders gut. Alle angebotenen Modelle sind von höchster Qualität und bieten eine hervorragende Leistung bei geringem Lärm- und Abgasaufkommen. Überzeugen Sie sich selbst von den Vorteilen der Akku-Schneefräsen und bestellen Sie bequem und sicher in unserem Online-Shop."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Schneefräsen & Kehrmaschinen | Online Shop",
-            "metaDescription": "Kaufe jetzt in unserem Online Shop günstige Kehrmaschinen, Benzin-Schneefräsen, Akku-Schneefräsen und Zubehör von Marken wie Alpina-Garden, Kärcher und Einhell.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Alle Hersteller für Schneefräsen & Kehrmaschinen ",
-            "metaDescription": "Egal ob Schneefräse oder Kehrmaschine: In unserem Shop finden Sie Produkte von CMI, MTD, Alpina-Garden, Texas, Stiga, Al-Ko, Einhell, Scheppach oder Kärcher. ",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT günstig kaufen",
-        "defaultMetaDescription": "In unserem Online Shop:  $PRODUKT von $HERSTELLER. Kaufen Sie jetzt günstig und einfach aus unserem großen Angebot im Bereich $KATEGORIE.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "g\u00fcnstige-kehrmaschinen.de",
+  "hostname": "https://www.g\u00fcnstige-kehrmaschinen.de/",
+  "email": "g\u00fcnstige-kehrmaschinen.de@surrealnetworks.io",
+  "organization": "g\u00fcnstige-kehrmaschinen.de",
+  "logoText": "G\u00fcnstige-kehrmaschinen.de",
+  "title": "Schneefr\u00e4sen & Kehrmaschinen",
+  "subline": "Der Webshop f\u00fcr Schneefr\u00e4sen & Kehrmaschinen",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "2593903",
+    "2593911",
+    "3027232",
+    "8072514",
+    "5803093",
+    "1136175"
+  ],
+  "winnerProducts": [
+    "5899596",
+    "8606113",
+    "7883515"
+  ],
+  "featuredCategories": [
+    "Kehrmaschinen",
+    "Zubeh\u00f6r f\u00fcr Schneefr\u00e4sen",
+    "Kehrmaschinen",
+    "Akku-Schneefr\u00e4sen",
+    "Zubeh\u00f6r f\u00fcr Schneefr\u00e4sen",
+    "Zubeh\u00f6r f\u00fcr Schneefr\u00e4sen"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Schneefr\u00e4sen & Kehrmaschinen",
+    "featureText": "Herzlich willkommen in unserem Online-Shop f\u00fcr Schneefr\u00e4sen und Kehrmaschinen - www.g\u00fcnstige-kehrmaschinen.de! Jeder kennt es, und jeder f\u00fcrchtet es: Egal ob Schnee schippen  oder fegen, manche Aufgaben sind viel sch\u00f6ner, mit der Nutzung von fortschrittlicher Technik. Genau diese Erleichterungen bieten wir dir in unserem Shop an. Zu unseren Angeboten z\u00e4hlen Kehrmaschinen, Benzin-Schneefr\u00e4sen, Akku-Schneefr\u00e4sen oder Zubeh\u00f6r f\u00fcr Schneefr\u00e4sen von bew\u00e4hrten Herstellern.",
+    "index": {
+      "title": "Schneefr\u00e4sen & Kehrmaschinen | G\u00fcnstig. Schnell. Einfach. ",
+      "metaDescription": "So machen auch die l\u00e4stigen Aufgaben Spa\u00df. Mit unseren Kehrmaschinen, Benzin-Schneefr\u00e4sen, Akku-Schneefr\u00e4sen und Zubeh\u00f6r f\u00fcr Schneefr\u00e4sen. ",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei g\u00fcnstige-kehrmaschinen.de",
+            "text": "Herzlich willkommen auf unserer Website f\u00fcr Schneefr\u00e4sen und Kehrmaschinen. Wir bieten Ihnen eine breite Palette an hochwertigen und g\u00fcnstigen Produkten, die Ihnen dabei helfen, Ihren Gehweg, Ihre Einfahrt und Ihren Garten von Schnee und Laub zu befreien. Von Kehrmaschinen \u00fcber Zubeh\u00f6r f\u00fcr Schneefr\u00e4sen bis hin zu Benzin- und Akku-Schneefr\u00e4sen haben wir alles, was Sie ben\u00f6tigen, um Ihre Aufgaben bequem und effizient zu erledigen. St\u00f6bern Sie durch unsere Kategorien und entdecken Sie das passende Ger\u00e4t f\u00fcr Ihre Bed\u00fcrfnisse. Bestellen Sie noch heute und profitieren Sie von unseren g\u00fcnstigen Preisen und schnellen Lieferzeiten."
+          },
+          {
+            "title": "Kehrmaschinen",
+            "text": "Unsere <a href=\"/kategorie/kehrmaschinen/\" title=\"Kehrmaschinen\">Kehrmaschinen</a> sind ideal f\u00fcr den Einsatz in G\u00e4rten, auf Gehwegen und Stra\u00dfen. Mit ihnen k\u00f6nnen Sie m\u00fchelos Schmutz, Laub und Schnee beseitigen. Wir bieten eine breite Palette an Kehrmaschinen, einschlie\u00dflich elektrischer und benzinbetriebener Modelle, die alle robust und langlebig sind. Unsere Kehrmaschinen sind einfach zu bedienen und erm\u00f6glichen es Ihnen, Ihre Arbeit schnell und effizient zu erledigen. St\u00f6bern Sie in unserem Sortiment, um die perfekte Kehrmaschine f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+          },
+          {
+            "title": "Zubeh\u00f6r f\u00fcr Schneefr\u00e4sen",
+            "text": "Wir bieten eine Vielzahl an Zubeh\u00f6rteilen f\u00fcr Ihre Schneefr\u00e4se, darunter Schaufeln, Klingen und Messer, um sicherzustellen, dass Ihre Schneefr\u00e4se immer optimal funktioniert. Unser Zubeh\u00f6r ist langlebig und einfach zu installieren, und es kann Ihnen helfen, die Leistung Ihrer Schneefr\u00e4se zu verbessern und ihre Lebensdauer zu verl\u00e4ngern. St\u00f6bern Sie in unserem Sortiment, um das perfekte Zubeh\u00f6r f\u00fcr Ihre Schneefr\u00e4se zu finden."
+          },
+          {
+            "title": "Benzin-Schneefr\u00e4sen",
+            "text": "Unsere <a href=\"/kategorie/benzin-schneefraesen/\" title=\"Benzin-Schneefr\u00e4sen\">Benzin-Schneefr\u00e4sen</a> sind ideal f\u00fcr den Einsatz in gr\u00f6\u00dferen G\u00e4rten und auf Gehwegen und Stra\u00dfen. Sie bieten eine hohe Leistung und Flexibilit\u00e4t, da sie nicht an eine Stromquelle gebunden sind. Unsere benzinbetriebenen Schneefr\u00e4sen sind robust und langlebig, und sie bieten eine einfache und effiziente M\u00f6glichkeit, Schnee und andere Hindernisse zu beseitigen. St\u00f6bern Sie in unserem Sortiment, um die perfekte Benzin-Schneefr\u00e4se f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+          },
+          {
+            "title": "Akku-Schneefr\u00e4sen \u2013 Effizient und umweltfreundlich",
+            "text": "Der Online-Shop g\u00fcnstige-kehrmaschinen.de bietet eine breite Auswahl an Akku-Schneefr\u00e4sen. Diese Ger\u00e4te sind besonders effizient und umweltfreundlich. Sie sind leicht und handlich und eignen sich ideal f\u00fcr kleinere Fl\u00e4chen. Auch f\u00fcr den Einsatz in schwer zug\u00e4nglichen Bereichen eignen sich Akku-Schneefr\u00e4sen besonders gut. Alle angebotenen Modelle sind von h\u00f6chster Qualit\u00e4t und bieten eine hervorragende Leistung bei geringem L\u00e4rm- und Abgasaufkommen. \u00dcberzeugen Sie sich selbst von den Vorteilen der Akku-Schneefr\u00e4sen und bestellen Sie bequem und sicher in unserem Online-Shop."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE | günstige-kehrmaschinen.de",
-        "defaultMetaDescription": "Mit unserem Sortiment an $KATEGORIE bieten wir dir hochwertige Produkte von Herstellern wie z.B. Kärcher, Alpina-Garden oder Einhell zu einem günstigen Preis.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Schneefr\u00e4sen & Kehrmaschinen | Online Shop",
+      "metaDescription": "Kaufe jetzt in unserem Online Shop g\u00fcnstige Kehrmaschinen, Benzin-Schneefr\u00e4sen, Akku-Schneefr\u00e4sen und Zubeh\u00f6r von Marken wie Alpina-Garden, K\u00e4rcher und Einhell.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER | Schneefräsen & Kehrmaschinen",
-        "defaultMetaDescription": "Jetzt hochwertige Produkte von unserem Top Hersteller $HERSTELLER zu günstigen Preisen kaufen. Dein Online Shop für Schneefräsen & Kehrmaschinen.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Schneefräsen & Kehrmaschinen",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Schneefräsen & Kehrmaschinen Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Schneefräsen & Kehrmaschinen Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Alle Hersteller f\u00fcr Schneefr\u00e4sen & Kehrmaschinen ",
+      "metaDescription": "Egal ob Schneefr\u00e4se oder Kehrmaschine: In unserem Shop finden Sie Produkte von CMI, MTD, Alpina-Garden, Texas, Stiga, Al-Ko, Einhell, Scheppach oder K\u00e4rcher. ",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT g\u00fcnstig kaufen",
+    "defaultMetaDescription": "In unserem Online Shop:  $PRODUKT von $HERSTELLER. Kaufen Sie jetzt g\u00fcnstig und einfach aus unserem gro\u00dfen Angebot im Bereich $KATEGORIE.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE | g\u00fcnstige-kehrmaschinen.de",
+    "defaultMetaDescription": "Mit unserem Sortiment an $KATEGORIE bieten wir dir hochwertige Produkte von Herstellern wie z.B. K\u00e4rcher, Alpina-Garden oder Einhell zu einem g\u00fcnstigen Preis.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER | Schneefr\u00e4sen & Kehrmaschinen",
+    "defaultMetaDescription": "Jetzt hochwertige Produkte von unserem Top Hersteller $HERSTELLER zu g\u00fcnstigen Preisen kaufen. Dein Online Shop f\u00fcr Schneefr\u00e4sen & Kehrmaschinen.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Schneefr\u00e4sen & Kehrmaschinen",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Schneefr\u00e4sen & Kehrmaschinen Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Schneefr\u00e4sen & Kehrmaschinen Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
