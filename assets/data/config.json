@@ -1,12 +1,12 @@
 {
   "configIsReady": true,
-  "domain": "g\u00fcnstige-kehrmaschinen.de",
-  "hostname": "https://www.g\u00fcnstige-kehrmaschinen.de/",
-  "email": "g\u00fcnstige-kehrmaschinen.de@surrealnetworks.io",
-  "organization": "g\u00fcnstige-kehrmaschinen.de",
-  "logoText": "G\u00fcnstige-kehrmaschinen.de",
-  "title": "Schneefr\u00e4sen & Kehrmaschinen",
-  "subline": "Der Webshop f\u00fcr Schneefr\u00e4sen & Kehrmaschinen",
+  "domain": "günstige-kehrmaschinen.de",
+  "hostname": "https://www.günstige-kehrmaschinen.de/",
+  "email": "günstige-kehrmaschinen.de@surrealnetworks.io",
+  "organization": "günstige-kehrmaschinen.de",
+  "logoText": "Günstige-kehrmaschinen.de",
+  "title": "Schneefräsen & Kehrmaschinen",
+  "subline": "Der Webshop für Schneefräsen & Kehrmaschinen",
   "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
   "imageFolder": "/assets/images/images/",
   "productUrl": "/produkt/",
@@ -29,11 +29,11 @@
   ],
   "featuredCategories": [
     "Kehrmaschinen",
-    "Zubeh\u00f6r f\u00fcr Schneefr\u00e4sen",
+    "Zubehör für Schneefräsen",
     "Kehrmaschinen",
-    "Akku-Schneefr\u00e4sen",
-    "Zubeh\u00f6r f\u00fcr Schneefr\u00e4sen",
-    "Zubeh\u00f6r f\u00fcr Schneefr\u00e4sen"
+    "Akku-Schneefräsen",
+    "Zubehör für Schneefräsen",
+    "Zubehör für Schneefräsen"
   ],
   "socialMediaAccounts": [],
   "imageQuality": 90,
@@ -45,68 +45,101 @@
   ],
   "seo": {
     "htmlLang": "de",
-    "mainKeyword": "Schneefr\u00e4sen & Kehrmaschinen",
-    "featureText": "Herzlich willkommen in unserem Online-Shop f\u00fcr Schneefr\u00e4sen und Kehrmaschinen - www.g\u00fcnstige-kehrmaschinen.de! Jeder kennt es, und jeder f\u00fcrchtet es: Egal ob Schnee schippen  oder fegen, manche Aufgaben sind viel sch\u00f6ner, mit der Nutzung von fortschrittlicher Technik. Genau diese Erleichterungen bieten wir dir in unserem Shop an. Zu unseren Angeboten z\u00e4hlen Kehrmaschinen, Benzin-Schneefr\u00e4sen, Akku-Schneefr\u00e4sen oder Zubeh\u00f6r f\u00fcr Schneefr\u00e4sen von bew\u00e4hrten Herstellern.",
+    "mainKeyword": "Schneefräsen & Kehrmaschinen",
+    "featureText": "Herzlich willkommen in unserem Online-Shop für Schneefräsen und Kehrmaschinen - www.günstige-kehrmaschinen.de! Jeder kennt es, und jeder fürchtet es: Egal ob Schnee schippen  oder fegen, manche Aufgaben sind viel schöner, mit der Nutzung von fortschrittlicher Technik. Genau diese Erleichterungen bieten wir dir in unserem Shop an. Zu unseren Angeboten zählen Kehrmaschinen, Benzin-Schneefräsen, Akku-Schneefräsen oder Zubehör für Schneefräsen von bewährten Herstellern.",
     "index": {
-      "title": "Schneefr\u00e4sen & Kehrmaschinen | G\u00fcnstig. Schnell. Einfach. ",
-      "metaDescription": "So machen auch die l\u00e4stigen Aufgaben Spa\u00df. Mit unseren Kehrmaschinen, Benzin-Schneefr\u00e4sen, Akku-Schneefr\u00e4sen und Zubeh\u00f6r f\u00fcr Schneefr\u00e4sen. ",
+      "title": "Schneefräsen & Kehrmaschinen | Günstig. Schnell. Einfach. ",
+      "metaDescription": "So machen auch die lästigen Aufgaben Spaß. Mit unseren Kehrmaschinen, Benzin-Schneefräsen, Akku-Schneefräsen und Zubehör für Schneefräsen. ",
       "robots": "index, follow",
       "seotext": {
         "published": true,
         "content": [
           {
-            "title": "Willkommen bei g\u00fcnstige-kehrmaschinen.de",
-            "text": "Herzlich willkommen auf unserer Website f\u00fcr Schneefr\u00e4sen und Kehrmaschinen. Wir bieten Ihnen eine breite Palette an hochwertigen und g\u00fcnstigen Produkten, die Ihnen dabei helfen, Ihren Gehweg, Ihre Einfahrt und Ihren Garten von Schnee und Laub zu befreien. Von Kehrmaschinen \u00fcber Zubeh\u00f6r f\u00fcr Schneefr\u00e4sen bis hin zu Benzin- und Akku-Schneefr\u00e4sen haben wir alles, was Sie ben\u00f6tigen, um Ihre Aufgaben bequem und effizient zu erledigen. St\u00f6bern Sie durch unsere Kategorien und entdecken Sie das passende Ger\u00e4t f\u00fcr Ihre Bed\u00fcrfnisse. Bestellen Sie noch heute und profitieren Sie von unseren g\u00fcnstigen Preisen und schnellen Lieferzeiten."
+            "title": "Willkommen bei günstige-kehrmaschinen.de",
+            "text": "Herzlich willkommen auf unserer Website für Schneefräsen und Kehrmaschinen. Wir bieten Ihnen eine breite Palette an hochwertigen und günstigen Produkten, die Ihnen dabei helfen, Ihren Gehweg, Ihre Einfahrt und Ihren Garten von Schnee und Laub zu befreien. Von Kehrmaschinen über Zubehör für Schneefräsen bis hin zu Benzin- und Akku-Schneefräsen haben wir alles, was Sie benötigen, um Ihre Aufgaben bequem und effizient zu erledigen. Stöbern Sie durch unsere Kategorien und entdecken Sie das passende Gerät für Ihre Bedürfnisse. Bestellen Sie noch heute und profitieren Sie von unseren günstigen Preisen und schnellen Lieferzeiten."
           },
           {
             "title": "Kehrmaschinen",
-            "text": "Unsere <a href=\"/kategorie/kehrmaschinen/\" title=\"Kehrmaschinen\">Kehrmaschinen</a> sind ideal f\u00fcr den Einsatz in G\u00e4rten, auf Gehwegen und Stra\u00dfen. Mit ihnen k\u00f6nnen Sie m\u00fchelos Schmutz, Laub und Schnee beseitigen. Wir bieten eine breite Palette an Kehrmaschinen, einschlie\u00dflich elektrischer und benzinbetriebener Modelle, die alle robust und langlebig sind. Unsere Kehrmaschinen sind einfach zu bedienen und erm\u00f6glichen es Ihnen, Ihre Arbeit schnell und effizient zu erledigen. St\u00f6bern Sie in unserem Sortiment, um die perfekte Kehrmaschine f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+            "text": "Unsere <a href=\"/kategorie/kehrmaschinen/\" title=\"Kehrmaschinen\">Kehrmaschinen</a> sind ideal für den Einsatz in Gärten, auf Gehwegen und Straßen. Mit ihnen können Sie mühelos Schmutz, Laub und Schnee beseitigen. Wir bieten eine breite Palette an Kehrmaschinen, einschließlich elektrischer und benzinbetriebener Modelle, die alle robust und langlebig sind. Unsere Kehrmaschinen sind einfach zu bedienen und ermöglichen es Ihnen, Ihre Arbeit schnell und effizient zu erledigen. Stöbern Sie in unserem Sortiment, um die perfekte Kehrmaschine für Ihre Bedürfnisse zu finden."
           },
           {
-            "title": "Zubeh\u00f6r f\u00fcr Schneefr\u00e4sen",
-            "text": "Wir bieten eine Vielzahl an Zubeh\u00f6rteilen f\u00fcr Ihre Schneefr\u00e4se, darunter Schaufeln, Klingen und Messer, um sicherzustellen, dass Ihre Schneefr\u00e4se immer optimal funktioniert. Unser Zubeh\u00f6r ist langlebig und einfach zu installieren, und es kann Ihnen helfen, die Leistung Ihrer Schneefr\u00e4se zu verbessern und ihre Lebensdauer zu verl\u00e4ngern. St\u00f6bern Sie in unserem Sortiment, um das perfekte Zubeh\u00f6r f\u00fcr Ihre Schneefr\u00e4se zu finden."
+            "title": "Zubehör für Schneefräsen",
+            "text": "Wir bieten eine Vielzahl an Zubehörteilen für Ihre Schneefräse, darunter Schaufeln, Klingen und Messer, um sicherzustellen, dass Ihre Schneefräse immer optimal funktioniert. Unser Zubehör ist langlebig und einfach zu installieren, und es kann Ihnen helfen, die Leistung Ihrer Schneefräse zu verbessern und ihre Lebensdauer zu verlängern. Stöbern Sie in unserem Sortiment, um das perfekte Zubehör für Ihre Schneefräse zu finden."
           },
           {
-            "title": "Benzin-Schneefr\u00e4sen",
-            "text": "Unsere <a href=\"/kategorie/benzin-schneefraesen/\" title=\"Benzin-Schneefr\u00e4sen\">Benzin-Schneefr\u00e4sen</a> sind ideal f\u00fcr den Einsatz in gr\u00f6\u00dferen G\u00e4rten und auf Gehwegen und Stra\u00dfen. Sie bieten eine hohe Leistung und Flexibilit\u00e4t, da sie nicht an eine Stromquelle gebunden sind. Unsere benzinbetriebenen Schneefr\u00e4sen sind robust und langlebig, und sie bieten eine einfache und effiziente M\u00f6glichkeit, Schnee und andere Hindernisse zu beseitigen. St\u00f6bern Sie in unserem Sortiment, um die perfekte Benzin-Schneefr\u00e4se f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+            "title": "Benzin-Schneefräsen",
+            "text": "Unsere <a href=\"/kategorie/benzin-schneefraesen/\" title=\"Benzin-Schneefräsen\">Benzin-Schneefräsen</a> sind ideal für den Einsatz in größeren Gärten und auf Gehwegen und Straßen. Sie bieten eine hohe Leistung und Flexibilität, da sie nicht an eine Stromquelle gebunden sind. Unsere benzinbetriebenen Schneefräsen sind robust und langlebig, und sie bieten eine einfache und effiziente Möglichkeit, Schnee und andere Hindernisse zu beseitigen. Stöbern Sie in unserem Sortiment, um die perfekte Benzin-Schneefräse für Ihre Bedürfnisse zu finden."
           },
           {
-            "title": "Akku-Schneefr\u00e4sen \u2013 Effizient und umweltfreundlich",
-            "text": "Der Online-Shop g\u00fcnstige-kehrmaschinen.de bietet eine breite Auswahl an Akku-Schneefr\u00e4sen. Diese Ger\u00e4te sind besonders effizient und umweltfreundlich. Sie sind leicht und handlich und eignen sich ideal f\u00fcr kleinere Fl\u00e4chen. Auch f\u00fcr den Einsatz in schwer zug\u00e4nglichen Bereichen eignen sich Akku-Schneefr\u00e4sen besonders gut. Alle angebotenen Modelle sind von h\u00f6chster Qualit\u00e4t und bieten eine hervorragende Leistung bei geringem L\u00e4rm- und Abgasaufkommen. \u00dcberzeugen Sie sich selbst von den Vorteilen der Akku-Schneefr\u00e4sen und bestellen Sie bequem und sicher in unserem Online-Shop."
+            "title": "Akku-Schneefräsen – Effizient und umweltfreundlich",
+            "text": "Der Online-Shop günstige-kehrmaschinen.de bietet eine breite Auswahl an Akku-Schneefräsen. Diese Geräte sind besonders effizient und umweltfreundlich. Sie sind leicht und handlich und eignen sich ideal für kleinere Flächen. Auch für den Einsatz in schwer zugänglichen Bereichen eignen sich Akku-Schneefräsen besonders gut. Alle angebotenen Modelle sind von höchster Qualität und bieten eine hervorragende Leistung bei geringem Lärm- und Abgasaufkommen. Überzeugen Sie sich selbst von den Vorteilen der Akku-Schneefräsen und bestellen Sie bequem und sicher in unserem Online-Shop."
           }
         ]
       }
     },
     "shop": {
-      "title": "Schneefr\u00e4sen & Kehrmaschinen | Online Shop",
-      "metaDescription": "Kaufe jetzt in unserem Online Shop g\u00fcnstige Kehrmaschinen, Benzin-Schneefr\u00e4sen, Akku-Schneefr\u00e4sen und Zubeh\u00f6r von Marken wie Alpina-Garden, K\u00e4rcher und Einhell.",
+      "title": "Schneefräsen & Kehrmaschinen | Online Shop",
+      "metaDescription": "Kaufe jetzt in unserem Online Shop günstige Kehrmaschinen, Benzin-Schneefräsen, Akku-Schneefräsen und Zubehör von Marken wie Alpina-Garden, Kärcher und Einhell.",
       "robots": "index, follow"
     },
     "hersteller": {
-      "title": "Alle Hersteller f\u00fcr Schneefr\u00e4sen & Kehrmaschinen ",
-      "metaDescription": "Egal ob Schneefr\u00e4se oder Kehrmaschine: In unserem Shop finden Sie Produkte von CMI, MTD, Alpina-Garden, Texas, Stiga, Al-Ko, Einhell, Scheppach oder K\u00e4rcher. ",
+      "title": "Alle Hersteller für Schneefräsen & Kehrmaschinen ",
+      "metaDescription": "Egal ob Schneefräse oder Kehrmaschine: In unserem Shop finden Sie Produkte von CMI, MTD, Alpina-Garden, Texas, Stiga, Al-Ko, Einhell, Scheppach oder Kärcher. ",
       "robots": "index, follow"
     }
   },
   "productSeo": {
-    "defaultTitle": "$PRODUKT g\u00fcnstig kaufen",
-    "defaultMetaDescription": "In unserem Online Shop:  $PRODUKT von $HERSTELLER. Kaufen Sie jetzt g\u00fcnstig und einfach aus unserem gro\u00dfen Angebot im Bereich $KATEGORIE.",
+    "defaultTitle": "$PRODUKT günstig kaufen",
+    "defaultMetaDescription": "In unserem Online Shop:  $PRODUKT von $HERSTELLER. Kaufen Sie jetzt günstig und einfach aus unserem großen Angebot im Bereich $KATEGORIE.",
     "defaultRobots": "index, follow",
     "products": [
       {
         "sku": "5637909794",
         "name": "Ortovox PALA PANTS Kletterhose",
         "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
           "robots": "index, follow"
+        }
+      },
+      {
+        "sku": "5899596",
+        "seo": {
+          "texts": [
+            {
+              "title": "MTD Abscherbolzen für Schneefräsen",
+              "text": "<p class=\"justify\">Der MTD Abscherbolzen (SKU: 5899596) ist ein essentielles Zubehör für zweistufige Schneefräsen und trägt zur Langlebigkeit und Effizienz des Geräts bei. Er ist speziell für die Verwendung mit MTD Schneefräsen konzipiert und bietet höchste Qualität und Zuverlässigkeit. Die Hauptfunktion des Abscherbolzens besteht darin, das Getriebe der Schneefräse vor Beschädigungen zu schützen, indem er bei einer plötzlichen Blockade der Räumschnecke bricht. Dieses clevere Sicherheitsdesign verhindert kostspielige Reparaturen und reduziert den Wartungsaufwand erheblich.</p><p class=\"justify\">Mit einer GTIN13 von 4008423821871 ist dieser Abscherbolzen ein wichtiger Bestandteil für jeden Besitzer einer MTD Schneefräse. Die Sicherheits-Sollbruchstelle des Bolzens sorgt dafür, dass im Falle einer Blockade lediglich der Bolzen ersetzt werden muss, anstatt dass das gesamte Getriebe Schaden nimmt. Das spart Zeit und Geld und ermöglicht es, mit der Schneefräse nach dem Austausch des Bolzens schnell wieder einsatzbereit zu sein.</p><p class=\"justify\">Dieser Abscherbolzen gehört zur Kategorie Zubehör für Schneefräsen und ist in den Bereichen Startseite, Technik sowie Schneefräsen & Kehrmaschinen zu finden. Mit einem Preis von 16,49 Euro bietet dieser Artikel ein hervorragendes Preis-Leistungs-Verhältnis und ist eine sinnvolle Investition für jeden Schneefräsenbesitzer. In Kombination mit anderen hochwertigen Zubehörteilen von MTD sorgt der Abscherbolzen für ein optimales Schneefräsen-Erlebnis.</p><p class=\"justify\">Zusammenfassend ist der MTD Abscherbolzen (SKU: 5899596) ein unverzichtbares Zubehör für Schneefräsen, das für mehr Sicherheit und Langlebigkeit des Geräts sorgt. Das Clevere Sicherheitsdesign und die einfache Handhabung machen ihn zum perfekten Begleiter für den Winterdienst. Investieren Sie in den MTD Abscherbolzen, um Ihr Gerät optimal zu schützen und die Lebensdauer Ihrer Schneefräse zu verlängern.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "8606113",
+        "seo": {
+          "texts": [
+            {
+              "title": "Alpina Benzin-Schneefräse AS 62 P - Leistungsstarke Schneeräumung für den Winter",
+              "text": "<p class=\"justify\">Die Alpina Benzin-Schneefräse AS 62 P ist eine effiziente und leistungsstarke Lösung für die Schneeräumung in der kalten Jahreszeit. Mit einem kraftvollen 212 cm³-Benzinmotor ist diese Schneefräse von Alpina-Garden ideal für den Einsatz bei unterschiedlichen Schneemengen und -arten geeignet. Die zweistufige Frästechnik mit gezahnter Frässchnecke und einer Räumbreite von 62 cm sorgt für ein effektives Räumergebnis.</p><p class=\"justify\">Einfach zu bedienen ist die Benzin-Schneefräse AS 62 P dank des praktischen Bedienfeldes. Hier lassen sich unter anderem der Auswurf, der Deflektor und die Geschwindigkeit einstellen. Zudem verfügt die Schneefräse über einen Schalter für die integrierten LED-Leuchten, mit denen das Gerät auch bei schlechten Sichtverhältnissen problemlos verwendet werden kann. Die 14\"-Snow-Hog-Räder bieten eine gute Bodenhaftung und ermöglichen eine sichere Bedienung.</p><p class=\"justify\">Mit insgesamt 5 Geschwindigkeitsstufen und 2 Rückwärtsgängen bietet die Alpina Benzin-Schneefräse AS 62 P eine hohe Flexibilität bei der Schneeräumung. Die verschiedenen Gänge erlauben es, die Schneefräse optimal an die jeweiligen Bedingungen anzupassen. Die starke Performance und der einfache Umgang haben dazu geführt, dass dieses Modell bereits zahlreiche positive Bewertungen und durchschnittlich 4 Sterne bei 85 Kundenbewertungen erhalten hat.</p><p class=\"justify\">Die Alpina Benzin-Schneefräse AS 62 P erleichtert die Schneeräumung im Winter deutlich und sorgt für freie Wege und Einfahrten auf Ihrem Grundstück. Der leistungsstarke Motor und die hochwertige Verarbeitung sorgen für eine lange Lebensdauer und zuverlässige Ergebnisse. Wenn Sie auf der Suche nach einer Benzin-Schneefräse sind, die Ihnen bei Winterwetter hervorragende Leistung bietet, ist die AS 62 P von Alpina-Garden eine ausgezeichnete Wahl.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "7883515",
+        "seo": {
+          "texts": [
+            {
+              "title": "MTD Gummischürfleiste für MTD Schneeräumschild: Zubehör für Schneefräsen",
+              "text": "<p class=\"justify\">Die MTD Gummischürfleiste (SKU: 7883515) ist ein hochwertiges und effizientes Zubehör für Ihr MTD Schneeräumschild und wurde speziell entwickelt, um die Leistung und Funktion Ihrer Schneefräse zu verbessern. Sie ist aus strapazierfähigem Gummi gefertigt und sorgt dafür, dass Ihr Schneeräumschild problemlos auf den unterschiedlichsten Oberflächen, wie Gehwegen, Auffahrten oder Parkplätzen, verwendet werden kann.</p><p class=\"justify\">Diese erstklassige Gummischürfleiste, hergestellt von der renommierten Marke MTD, ist kompatibel mit MTD Schneefräsen ab 61 cm Räumbreite. Damit können sich Anwender darauf verlassen, dass sie ihre Schneefräse optimal nutzen und ihre Wege und Flächen effizient von Schnee befreien können. Die Gummischürfleiste (GTIN: 4008423815832) ist ein unverzichtbares Zubehör für Schneefräsen und sorgt für exzellente Räumleistung und Langlebigkeit.</p><p class=\"justify\">Mit 81 Bewertungen und einer 5-Sterne-Bewertung ist die MTD Gummischürfleiste ein vertrauenswürdiges und qualitativ hochwertiges Zubehör für Ihr Schneeräumschild. Sie garantiert nicht nur eine hervorragende Schneeentfernungsleistung, sondern schont auch die Oberflächen, auf denen sie eingesetzt wird, wodurch Beschädigungen vermieden werden.</p><p class=\"justify\">Die MTD Gummischürfleiste ist eine erschwingliche und nützliche Investition, um Ihre Schneefräse aufzurüsten und die Effizienz und Lebensdauer Ihres Schneeräumschilds zu erhöhen. Zu einem Preis von 49,99 € ist es ein wichtiger Bestandteil Ihres winterlichen Zubehörs, um Schnee effektiv und ohne Beschädigung der zu räumenden Flächen zu beseitigen. Bitte beachten Sie, dass die abgebildete Schneefräse und das Schneeräumschild nicht im Lieferumfang der Gummischürfleiste enthalten sind.</p>"
+            }
+          ]
         }
       }
     ]
   },
   "categorySeo": {
-    "defaultTitle": "$KATEGORIE | g\u00fcnstige-kehrmaschinen.de",
-    "defaultMetaDescription": "Mit unserem Sortiment an $KATEGORIE bieten wir dir hochwertige Produkte von Herstellern wie z.B. K\u00e4rcher, Alpina-Garden oder Einhell zu einem g\u00fcnstigen Preis.",
+    "defaultTitle": "$KATEGORIE | günstige-kehrmaschinen.de",
+    "defaultMetaDescription": "Mit unserem Sortiment an $KATEGORIE bieten wir dir hochwertige Produkte von Herstellern wie z.B. Kärcher, Alpina-Garden oder Einhell zu einem günstigen Preis.",
     "defaultRobots": "index, follow",
     "categories": [
       {
@@ -114,8 +147,8 @@
         "slug": "sporthosen",
         "name": "Sporthosen",
         "seo": {
-          "title": "Sporthosen g\u00fcnstig kaufen",
-          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "title": "Sporthosen günstig kaufen",
+          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
           "robots": "index, follow",
           "texts": [
             {
@@ -132,16 +165,16 @@
     ]
   },
   "brandSeo": {
-    "defaultTitle": "$HERSTELLER | Schneefr\u00e4sen & Kehrmaschinen",
-    "defaultMetaDescription": "Jetzt hochwertige Produkte von unserem Top Hersteller $HERSTELLER zu g\u00fcnstigen Preisen kaufen. Dein Online Shop f\u00fcr Schneefr\u00e4sen & Kehrmaschinen.",
+    "defaultTitle": "$HERSTELLER | Schneefräsen & Kehrmaschinen",
+    "defaultMetaDescription": "Jetzt hochwertige Produkte von unserem Top Hersteller $HERSTELLER zu günstigen Preisen kaufen. Dein Online Shop für Schneefräsen & Kehrmaschinen.",
     "defaultRobots": "index, follow",
     "brands": [
       {
         "key": "palm",
         "name": "Palm",
         "seo": {
-          "title": "Produkte von Palm g\u00fcnstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "title": "Produkte von Palm günstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
           "robots": "index, follow"
         }
       }
@@ -151,19 +184,19 @@
     {
       "title": "Start",
       "linkTo": "/",
-      "linkTitle": "Schneefr\u00e4sen & Kehrmaschinen",
+      "linkTitle": "Schneefräsen & Kehrmaschinen",
       "publish": true
     },
     {
       "title": "Shop",
       "linkTo": "/shop/",
-      "linkTitle": "Schneefr\u00e4sen & Kehrmaschinen Shop",
+      "linkTitle": "Schneefräsen & Kehrmaschinen Shop",
       "publish": true
     },
     {
       "title": "Marken",
       "linkTo": "/marken/",
-      "linkTitle": "Schneefr\u00e4sen & Kehrmaschinen Marken",
+      "linkTitle": "Schneefräsen & Kehrmaschinen Marken",
       "publish": true
     },
     {
